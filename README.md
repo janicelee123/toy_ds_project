@@ -1,3 +1,3 @@
 # toy_ds_project
-project creation date:Feb 12, 2022
+Project Creation Date:Feb 12, 2022
 Author: Janice Lee
